@@ -5,8 +5,7 @@ import Recipes from "./components/recipesSection/Recipes";
 import RecentProjects from "./components/recentProjectsSection/recentProjects";
 import React, { useEffect, useState } from "react";
 import { getData } from "./api/api";
-import {IData, Irecent, Irecipes } from "./types";
-import { AxiosResponse } from 'axios'
+import { IData } from "./types";
 
 
 export const DataContext = React.createContext<IData | undefined>(undefined);
