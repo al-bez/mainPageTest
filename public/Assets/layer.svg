@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="layer" transform="translate(-618 -382)">
+    <g id="layer-2" data-name="layer" transform="translate(618 382)">
+      <path id="Vector" d="M8.012.188l4.917,2.183c1.417.625,1.417,1.658,0,2.283L8.012,6.837a2.85,2.85,0,0,1-2.033,0L1.063,4.654C-.354,4.029-.354,3,1.063,2.371L5.979.188A2.85,2.85,0,0,1,8.012.188Z" transform="translate(2.829 2.246)" fill="none" stroke="#1e68f8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0A2.135,2.135,0,0,0,1.167,1.792L6.825,4.308a1.657,1.657,0,0,0,1.35,0l5.658-2.517A2.135,2.135,0,0,0,15,0" transform="translate(2.5 9.167)" fill="none" stroke="#1e68f8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0A1.964,1.964,0,0,0,1.167,1.792L6.825,4.308a1.657,1.657,0,0,0,1.35,0l5.658-2.517A1.964,1.964,0,0,0,15,0" transform="translate(2.5 13.333)" fill="none" stroke="#1e68f8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

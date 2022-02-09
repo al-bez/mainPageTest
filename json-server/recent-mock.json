@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "iconSrc": "creature.svg",
+    "text": "Onboarding Wizard",
+    "version": "3.7"
+  },
+  {
+    "id": 2,
+    "iconSrc": "ball.svg",
+    "text": "Sale properties",
+    "version": "4.1"
+  },
+  {
+    "id": 3,
+    "iconSrc": "pong.svg",
+    "text": "Rental properties",
+    "version": "2.1"
+  },
+  {
+    "id": 4,
+    "iconSrc": "crown.svg",
+    "text": "Onboarding Wizard",
+    "version": "3.7"
+  },
+  {
+    "id": 5,
+    "iconSrc": "stick.svg",
+    "text": "Sale properties",
+    "version": "4.1"
+  },
+  {
+    "id": 6,
+    "iconSrc": "rocket.svg",
+    "text": "Map Filters",
+    "version": "2.5"
+  },
+  {
+    "id": 7,
+    "iconSrc": "gun.svg",
+    "text": "Onboarding Wizard",
+    "version": "3.7"
+  },
+  {
+    "id": 8,
+    "iconSrc": "bomb.svg",
+    "text": "Rental properties",
+    "version": "2.1"
+  }
+]

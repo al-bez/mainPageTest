@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5.56" height="3.892" viewBox="0 0 5.56 3.892">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M0,0V5.56L3.313,2.735Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Color" width="17.692" height="19.858" fill="#9da3aa"/>
+    </clipPath>
+  </defs>
+  <g id="Icons_ic_play_arrow" data-name="Icons/ic_play_arrow" transform="translate(5.56) rotate(90)">
+    <g id="Group_247" data-name="Group 247">
+      <path id="Mask-2" data-name="Mask" d="M0,0V5.56L3.892,2.78Z" fill="none"/>
+      <g id="Mask_Group_247" data-name="Mask Group 247" clip-path="url(#clip-path)">
+        <g id="_Color" data-name="🎨 Color" transform="translate(-7.431 -7.149)">
+          <rect id="Color-2" data-name="Color" width="17.692" height="19.858" fill="#9da3aa"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

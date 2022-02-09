@@ -1,0 +1,58 @@
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+.recipes {
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+.textHolder {
+  display: flex;
+}
+.textHolder > div:first-child {
+  width: 16px;
+  margin-right: 8px;
+}
+.titleText {
+  display: flex;
+  flex-direction: column;
+  color: #9da3aa;
+  font-size: 12px;
+  line-height: 16px;
+}
+.titleText span:first-child {
+  color: #d4dae0;
+  font-weight: lighter;
+  font-size: 16px;
+  line-height: 21px;
+}
+.buttonsHolder {
+  display: flex;
+}
+.buttonsHolder > div {
+  border: 1px solid #303236;
+  border-radius: 3px;
+  max-height: 27px;
+  background-color: #222326;
+}
+.closeButton img {
+  width: auto;
+  height: auto;
+  padding: 10px;
+}
+.viewButton {
+  color: #9da3aa;
+  padding: 6px 19px;
+  font-size: 11px;
+  line-height: 14px;
+  text-wrap: none;
+  white-space: nowrap;
+  margin-right: 8px;
+}
+.itemsHolder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.006" height="16.006" viewBox="0 0 16.006 16.006">
+  <g id="Lightning" transform="translate(-428 -316)">
+    <g id="flash" transform="translate(428 316)">
+      <path id="Vector" d="M.913,7.523H2.973v4.8c0,1.12.607,1.347,1.347.507L9.369,7.1c.62-.7.36-1.28-.58-1.28H6.728v-4.8c0-1.12-.607-1.347-1.347-.507L.332,6.243C-.281,6.95-.021,7.523.913,7.523Z" transform="translate(3.149 1.333)" fill="none" stroke="#777b81" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H16.006V16.006H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

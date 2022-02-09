@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="139" viewBox="0 0 140 139">
+  <defs>
+    <filter id="_" x="0" y="0" width="140" height="139" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#_)">
+    <text id="_2" data-name="💣" transform="translate(70 55)" fill="#192324" font-size="14" font-family="SegoeUIEmoji, Segoe UI Emoji"><tspan x="-9.611" y="0">💣</tspan></text>
+  </g>
+</svg>
+
+

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="143" viewBox="0 0 140 143">
+  <defs>
+    <filter id="_" x="0" y="0" width="140" height="143" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#_)">
+    <text id="_2" data-name="🚀" transform="translate(70 58)" fill="#192324" font-size="14" font-family="AppleColorEmoji, Apple Color Emoji"><tspan x="-9.5" y="0">🚀</tspan></text>
+  </g>
+</svg>

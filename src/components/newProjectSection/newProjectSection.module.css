@@ -1,0 +1,51 @@
+.itemsHolder {
+  height: 120px;
+  border-bottom: 1px solid #303236;
+  display: flex;
+  align-items: center;
+}
+.newProjectItem {
+  background-color: #222326;
+  display: flex;
+  align-items: center;
+  border: 1px solid #303236;
+  height: 72px;
+  width: 321px;
+  border-radius: 3px;
+}
+.iconHolder {
+  background-color: #222326;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: 40px;
+  height: 40px;
+  border: 2px solid #303236;
+  border-radius: 8px;
+  margin-left: 16px;
+}
+.iconHolder img {
+  width: 20px;
+  height: 20px;
+}
+.textHolder {
+  display: flex;
+  flex-direction: column;
+}
+.textHolder span:first-child {
+  color: #d4dae0;
+  font-size: 14px;
+  margin-left: 15px;
+  margin-bottom: 4px;
+  line-height: 18px;
+}
+.textHolder span:nth-child(2) {
+  color: #777b81;
+  font-size: 12px;
+  line-height: 16px;
+  margin-left: 27px;
+}
+.addHolder {
+  margin-left: 23px;
+}

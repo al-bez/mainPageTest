@@ -1,0 +1,39 @@
+.RecentItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 64px;
+  padding-right: 16px;
+  border-bottom: 1px solid #303236;
+}
+.RecentItem:first-child {
+  border-top: 1px solid #303236;
+}
+.logoHolder {
+  background-color: #212225;
+  position: relative;
+  border-radius: 50%;
+  border: 1px solid #2e3034;
+  min-width: 32px;
+  min-height: 32px;
+  overflow: hidden;
+  text-overflow: clip;
+  margin-right: 15px;
+}
+.logoHolder > img {
+  position: absolute;
+  left: -54px;
+  top: -35px;
+  transform: scale(1.1);
+}
+.itemInfo {
+  color: #d4dae0;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.itemInfo span:last-child {
+  margin-left: 25px;
+  color: #9da3aa;
+}

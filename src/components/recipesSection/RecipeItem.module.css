@@ -1,0 +1,59 @@
+.recipeItem {
+  width: 236px;
+  height: 210px;
+}
+.imageHolder {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 16px;
+  border-radius: 3px;
+  overflow: hidden;
+}
+.logoHolder {
+  font-size: 11px;
+  line-height: 16px;
+  color: #777b81;
+  display: flex;
+  align-items: center;
+}
+.logoHolder > img {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  margin-right: 15px;
+}
+.textHolder > span {
+  font-size: 13px;
+  line-height: 18px;
+  color: #d4dae0;
+}
+.preview {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.preview div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 76px;
+  height: 26px;
+  background-color: #303236;
+  color: #9da3aa;
+  border-radius: 3px;
+  font-size: 13px;
+}
+.preview div:first-child {
+  width: 76px;
+  height: 28px;
+  background-color: #1055e0;
+  color: #ffffff;
+  margin-right: 6px;
+  border: 0;
+}
